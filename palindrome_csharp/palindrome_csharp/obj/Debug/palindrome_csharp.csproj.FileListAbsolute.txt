@@ -1,0 +1,5 @@
+c:\users\rabia\documents\visual studio 2013\Projects\palindrome_csharp\palindrome_csharp\bin\Debug\palindrome_csharp.exe.config
+c:\users\rabia\documents\visual studio 2013\Projects\palindrome_csharp\palindrome_csharp\bin\Debug\palindrome_csharp.exe
+c:\users\rabia\documents\visual studio 2013\Projects\palindrome_csharp\palindrome_csharp\bin\Debug\palindrome_csharp.pdb
+c:\users\rabia\documents\visual studio 2013\Projects\palindrome_csharp\palindrome_csharp\obj\Debug\palindrome_csharp.exe
+c:\users\rabia\documents\visual studio 2013\Projects\palindrome_csharp\palindrome_csharp\obj\Debug\palindrome_csharp.pdb
